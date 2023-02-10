@@ -13,7 +13,7 @@ console.log(four);
 let five = Boolean('alec');
 console.log(five);
 // 6
-let six = Boolean('');
+let six = Boolean(1/0);
 console.log(six);
 // 7 
 let one1 = Boolean(3 * 'abs');
