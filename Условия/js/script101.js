@@ -1,9 +1,9 @@
 let adult = 17;
 
 if (adult >= 18) {
-	let adult = true;
+	adult = true;
 } else {
-	let adult = false;
+	adult = false;
 }
 
 console.log(adult);
