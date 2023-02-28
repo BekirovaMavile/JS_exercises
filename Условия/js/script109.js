@@ -10,3 +10,19 @@ if (month == 1 || month == 2 || month == 12){
 } else {
     console.log("wrong number")
 }
+// 2
+let str1 = 'abcde';
+if (num[0] == 'a'){
+    console.log('+++');
+} else {
+	console.log('---');
+}
+// 3
+let n = 61324;
+let f = String(n)[0];
+if (f == 1 || f == 2 || f == 3){
+    console.log('+++');
+} else {
+	console.log('---');
+}
+// 4
