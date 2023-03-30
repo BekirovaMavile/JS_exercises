@@ -10,4 +10,4 @@ let now1  = new Date();
 let date1 = new Date(2003, 12, 31, 23, 
 	59, 59); 
 let diff1 = now.getTime() - date1.getTime();
-console.log(diff / (1000 * 60 * 60 * 24 * 31 ))
+console.log(diff1 / (1000 * 60 * 60 * 24 * 31 ))
